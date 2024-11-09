@@ -18,4 +18,4 @@ I'm passionate about problem-solving and continuously learning new technologies.
 ### Contact
 Feel free to reach out if you'd like to collaborate or have any questions!
 - 📧 Email: szymon.kulinski@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/szymon-kulinski-4b5423268/)
