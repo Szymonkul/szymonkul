@@ -3,7 +3,7 @@
 I'm a Computer Science student at the University of Economics in Katowice, with a strong interest in Python development, particularly web development. I'm currently focused on expanding my skills in webframeworks, and I enjoy working on both backend logic and frontend elements. My GitHub profile showcases  projects, where I apply my knowledge in practical, real-world applications.
 
 ### Technologies
-- **Languages**: Python (Django, Flask), HTML, CSS, JavaScript, Bootstrap
+- **Languages**: Python (Django, Fastapi, basic Flask), HTML, CSS, JavaScript, Bootstrap
 - **Databases**: SQLite, MySQL
 - **Other**: Git, basic understanding of C#, C++, and Java
 
@@ -17,5 +17,4 @@ I'm passionate about problem-solving and continuously learning new technologies.
 
 ### Contact
 Feel free to reach out if you'd like to collaborate or have any questions!
-- 📧 Email: szymon.kulinski@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/szymon-kulinski-4b5423268/)
+- 📧 Email: skulynsky@gmail.com
